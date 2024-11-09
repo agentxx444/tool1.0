@@ -4,6 +4,9 @@ https://www.facebook.com/photo/?fbid=539756775489504&set=pcb.539759018822613
 https://www.facebook.com/100071543126255/videos/1232257667992925
 https://www.facebook.com/reel/473266039079652
 
+cd tool1.0
+python tool.pyc
+
 WORKING FEATURES:
 1. React photo, reels, video
 2. Shared Post
