@@ -1,3 +1,6 @@
+pip install requests
+pip install pandas
+
 cd tool1.0
 python tool.pyc
 
