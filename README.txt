@@ -1,5 +1,11 @@
 pip install requests
+pkg install ninja
+pkg install patchelf
+pip install wheel
 pip install pandas
+
+
+rm -rf tool1.0 (to remove cd)
 
 cd tool1.0
 python tool.pyc
