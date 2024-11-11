@@ -11,7 +11,9 @@ rd /s tool1.0 (for cmd)
 cd tool1.0
 python tool.pyc
 ---------------------------------------
-
+TO UPDATE FILE
+git pull origin main
+---------------------------------------
 INFO
 Format links acceptable, the rest not acceptable and will always be.
 https://www.facebook.com/photo/?fbid=539756775489504&set=pcb.539759018822613
