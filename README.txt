@@ -23,7 +23,7 @@ https://www.facebook.com/reel/473266039079652
 WORKING FEATURES:
 1. React photo, reels, video
 2. Shared Post
-3. Follow Page
+3. Follow Page/Profile
 4. Like + Follow Page
 5. Like Page Only
 6. Custom Comment [Photo, reel, video] 
@@ -35,5 +35,4 @@ WORKING FEATURES:
 STILL WORKING ON:
 - Post text only
 - Posts with many pictures
-- Profile follow
 
