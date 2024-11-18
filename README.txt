@@ -27,10 +27,11 @@ WORKING FEATURES:
 4. Like + Follow Page
 5. Like Page Only
 6. Custom Comment [Photo, reel, video] 
-7. Validate Tokens
+7. Validate & Sort Valid
 8. Add account using email|token format
 9. Clear All accounts
 10. Remove Duplicate Accounts
+11. Post On Timeline
 ----------------------------------------
 STILL WORKING ON:
 - Post text only
