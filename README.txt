@@ -21,7 +21,7 @@ https://www.facebook.com/100071543126255/videos/1232257667992925
 https://www.facebook.com/reel/473266039079652
 ---------------------------------------
 WORKING FEATURES:
-1. React photo, reels, video
+1. React photo, reels, video, posts
 2. Shared Post
 3. Follow Page/Profile
 4. Like + Follow Page
@@ -33,7 +33,4 @@ WORKING FEATURES:
 10. Remove Duplicate Accounts
 11. Post On Timeline
 ----------------------------------------
-STILL WORKING ON:
-- Post text only
-- Posts with many pictures
 
