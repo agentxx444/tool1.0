@@ -26,7 +26,7 @@ WORKING FEATURES:
 3. Follow Page/Profile
 4. Like + Follow Page
 5. Like Page Only
-6. Custom Comment [Photo, reel, video] 
+6. Custom Comment [Photo, reel, video, posts] 
 7. Validate & Sort Valid
 8. Add account using email|token format
 9. Clear All accounts
