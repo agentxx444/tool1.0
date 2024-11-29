@@ -8,10 +8,12 @@ type cd
 rm -rf tool1.0 (to remove cd for termux)
 rd /s tool1.0 (for cmd)
 ---------------------------------------
+TO RUN
 cd tool1.0
 python tool.pyc
 ---------------------------------------
 TO UPDATE FILE
+cd tool1.0
 git pull origin main
 ---------------------------------------
 INFO
