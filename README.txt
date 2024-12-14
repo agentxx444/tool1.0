@@ -1,8 +1,25 @@
+INSTALL TERMUX/CMD
+pkg update
+pkg upgrade
+Y LANG
+pkg install python
+Y RASAD
+Pkg install git
+pip install requests
+pip install colorama
+Pip install rich
 pip install requests
 pkg install ninja
 pkg install patchelf
 pip install wheel
 pip install pandas
+---------------------------------------
+TO INSTALL PROGRAM
+git clone https://github.com/agentxx444/tool1.0
+---------------------------------------
+TO RUN
+cd tool1.0
+python tool.pyc
 ---------------------------------------
 type cd
 rm -rf tool1.0 (to remove cd for termux)
